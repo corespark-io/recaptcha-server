@@ -1,6 +1,6 @@
 # Variables
 APP_NAME := recaptcha-server
-DOCKER_REPO := mitchcorespark/recaptcha-server
+DOCKER_REPO := ghcr.io/corespark-io/recaptcha-server
 DOCKER_TAG := latest
 PORT := 8080
 
