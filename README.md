@@ -1,3 +1,6 @@
+> [!warning]
+> **THIS REPOSITORY IS NO LONGER MAINTAINED.**
+
 # reCAPTCHA Server
 
 A lightweight server implementation for handling reCAPTCHA verification in your applications.
